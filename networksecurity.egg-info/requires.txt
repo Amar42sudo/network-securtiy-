@@ -1,9 +1,5 @@
-
 pandas
 numpy
 python-dotenv
 pymongo[srv]==3.12
 pymango
-
--e .
-
